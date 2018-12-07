@@ -1,0 +1,25 @@
+{
+  "name": "Unattended Customer Service Robot(Email-Flipkart-Snapdeal)",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Microsoft.Activities.Extensions": "2.0.6.9",
+    "Twilio.Workflow.Activities": "1.0.0.0",
+    "UiPath.Core.Activities": "18.2.6732.32230",
+    "UiPath.Credentials.Activities": "1.1.6479.13204",
+    "UiPath.Database.Activities": "1.1.6660.26865",
+    "UiPath.Excel.Activities": "2.3.6682.26635",
+    "UiPath.Framework.Activities": "1.0.5905.30080",
+    "UiPath.Mail.Activities": "1.1.6562.21018",
+    "UiPath.PDF.Activities": "1.1.6732.21973",
+    "UiPath.Word.Activities": "1.1.6479.13205"
+  },
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6756.36765",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
